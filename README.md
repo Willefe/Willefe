@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Williams Efosa
-- 👀 I’m interested in Data Science and Machine Learning
+
 
 
 <!---
